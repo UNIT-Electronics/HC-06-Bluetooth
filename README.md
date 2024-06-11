@@ -1,4 +1,4 @@
-## Descubre cómo usar el Bluetooth HC-06 Esclavo con Arduino UNO y el IDE de Arduino
+## Bluetooth HC-06 Esclavo
 
 En este repositorio encontrarás el código y diagrama de conexión 📄📚🔌.
 
