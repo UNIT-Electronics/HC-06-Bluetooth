@@ -6,7 +6,7 @@ En este repositorio encontrarás el código y diagrama de conexión 📄📚🔌
 
 Asegúrate de realizar las siguientes conexiones entre el Arduino UNO y el Bluetooth HC-06 Esclavo🔌⬅️📟.
 
-![Display LCD](https://github.com/UNIT-Electronics/Display-LCD-16-2/blob/main/Conexiones-entre-Arduino-y-Display-LCD-con-I2C.jpg)
+![Display LCD](https://github.com/UNIT-Electronics/HC-06-Bluetooth/blob/main/Bluetooth%20HC-06%20Conexion%20con%20Arduino%20UNO.jpg)
 
 ### Código de Funcionamiento🧾
 
